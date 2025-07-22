@@ -1,0 +1,7 @@
+export GITHUB_ACCOUNT=jrdtechjourney &&
+git clone https://github.com/${GITHUB_ACCOUNT}/tdd-bdd-final-project.git &&
+cd tdd-bdd-final-project &&
+bash ./bin/setup.sh &&
+exit
+
+https://github.com/Soumit2003/tdd-bdd-final-project.git
